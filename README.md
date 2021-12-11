@@ -10,12 +10,32 @@ Ironhack Project 04 - Telling a story with data
  · .. y al ausentarse más, más aumenta el fracaso escolar
  · Los alumnos estudian menos tiempo porque están bebiendo/resacosas..
  . .. esto es malo, ya que las notas mejor cuanto más tiempo se estudie
+ · Los alumnos que aprueban al final del curso beben menos de la media escolar
  
 - Pestanya Why:
 
+  · Sexe: Si eres hombres bebes, y si eres mujer tambie´n pero menos
+
+ -> Nucleo familiar
+
  · Adress: No hay diferencia significativa entre vivir en el campo o en la urbe
- · Sexe: Si eres hombres bebes, y si eres mujer tambie´n pero menos
- · Educación padres:  
+ 
+ · Educación padres: No significativo
+ · Famrel: Tener una mala relación con tu familia te induce a la bebida
+ · Campo de trabajo: Si el padre trabaja en casa o teacher, los hijos tienden a beber menos
+ 
+ -> Ocio
+ 
+ · Relación romántica: No significativo ( no se muestra )
+ · Actividades extracurriculares: No sigifniciativo
+ · Going out with friends: Muy significativo, cuanto más salen, más beben
+ · Freetime: Tendencia , cuanto más tiempo se dispone más se bebe por aburrimiento
+ 
+ -> PENDIENTE:
+ 
+ Storytelling/prototipo de estudiant bebedor...
+ 
+ 
  
  
  
