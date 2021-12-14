@@ -31,6 +31,8 @@ Ironhack Project 04 - Telling a story with data
  · Going out with friends: Muy significativo, cuanto más salen, más beben
  · Freetime: Tendencia , cuanto más tiempo se dispone más se bebe por aburrimiento
  
+ · Mates/Lengua: Parece que beber afecta más al aprendizaje de la lengua. 
+ 
  -> PENDIENTE:
  
  Storytelling/prototipo de estudiant bebedor...
