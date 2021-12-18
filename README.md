@@ -20,16 +20,16 @@ Ironhack Project 04 - Telling a story with data
 
  · Adress: No hay diferencia significativa entre vivir en el campo o en la urbe
  
- · Educación padres: No significativo
+ · Educación padres versus Age: No significativo
  · Famrel: Tener una mala relación con tu familia te induce a la bebida
- · Campo de trabajo: Si el padre trabaja en casa o teacher, los hijos tienden a beber menos
+ · Campo de trabajo: Si el padre trabaja en casa o teacher, los hijos tienden a beber menos. Por el contrario los hijosd de padres/madres que trabajan en sector Servicios tienden a beber más.
  
  -> Ocio
  
  · Relación romántica: No significativo ( no se muestra )
  · Actividades extracurriculares: No sigifniciativo
  · Going out with friends: Muy significativo, cuanto más salen, más beben
- · Freetime: Tendencia , cuanto más tiempo se dispone más se bebe por aburrimiento
+ · Freetime: Tendencia , cuanto más tiempo se dispone más se bebe
  
  · Mates/Lengua: Parece que beber afecta más al aprendizaje de la lengua. 
  
